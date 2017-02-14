@@ -866,4 +866,14 @@ function draw() {
     vertex(371, 281);
     vertex(371, 233);
     endShape(CLOSE);
+    
+    fill('#92847F');
+    beginShape();    
+    vertex(69, 442);
+    vertex(83, 418);
+    vertex(156, 390);
+    vertex(217, 436);
+    vertex(131, 440);
+    vertex(135, 445);
+    endShape(CLOSE);
 }
